@@ -21,11 +21,11 @@ The third folder, PMP tables&graphs_chinese version, offers a collection of tabl
 
 ### 🎓 Scourcse
 
-[PMP books](https://drive.google.com/drive/folders/1C7fQwas4PzFd3oRjvlIgKz2DU_iVOZDd?usp=drive_link)
+[PMP books](https://github.com/HenryHengLUO/Project-Management-Professional_learning/tree/master/PMP%20books)
 
-[PMP mindmap_chinese version](https://drive.google.com/drive/folders/1xpNkLJMnFWK9BbXcOKBTa39ZtMdtTiC9?usp=drive_link) 👋 👋 👋 
+[PMP mindmap_chinese version](https://github.com/HenryHengLUO/Project-Management-Professional_learning/tree/master/PMP%20mindmap_chinese%20version) 👋 👋 👋 
 
-[PMP tables&graphs_chinese version](https://drive.google.com/drive/folders/1p2KpC677kiMqs3MTBekCXNxP7Um3Qv-C?usp=drive_link)
+[PMP tables&graphs_chinese version](https://github.com/HenryHengLUO/Project-Management-Professional_learning/tree/master/PMP%20tables%26graphs_chinese%20version)
 
 
 ## contributive part: Acknowledgement and Awards
